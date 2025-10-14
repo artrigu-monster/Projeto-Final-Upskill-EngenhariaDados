@@ -28,9 +28,17 @@ Construir um pipeline de ponta a ponta (Bronze–Silver–Gold) para ingestão, 
 
 ## Visualizações & Insights
 - **Top 5 Tipos de Discurso:** Identifica as falas mais realizadas na casa legislativa.
+![Top 5 Tipos de Discurso](data/grafico_top_5_tipos.png)
+
 - **Top 10 Palavras-chave de Discursos:** Principais temas trazendo à tona debate público e agendas do Plenário.
+![Top 10 Palavras-chave](data/grafico_top_keywords.png)
+
 - **Distribuição de Discursos por Mês:** Tendências de engajamento político ao longo do tempo (sazonalidade, picos, recessos).
+![Discursos por Mês](data/grafico_discursos_mes.png)
+
 - **Proposições por Tipo:** Quais formatos de proposição mais movimentam o processo legislativo.
+![Proposições por Tipo](data/grafico_proposicoes_tipo.png)
+
 *Todos os gráficos e outputs são salvos na pasta `/data` e podem ser facilmente incorporados ao README ou relatórios.*
 
 ## Como Executar
